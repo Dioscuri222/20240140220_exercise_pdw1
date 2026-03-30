@@ -16,3 +16,14 @@ body {
     max-width: 600px;
     text-align: center;
 }
+
+/* Mengatur warna heading H1 */
+h1 {
+    color: #333;
+}
+
+/* Mengatur warna heading H2 */
+h2 {
+    color: #555;
+    margin-top: 20px;
+}
